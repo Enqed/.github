@@ -12,4 +12,4 @@ Within our history we've worked on a infinite range of sectors and types of prod
 
 ## 🙋‍♀️ Wan't to work with us?
 
-It's pretty simple, regardless of your skill level, if you work as freelancer, send your resume to our HR, they will answer you as soon as possible about open positions, our culture, ongoing selections, among other things. If you have any questions just send an email to freelance@enqed.com and we'll reply to you shortly.
+It's pretty simple, regardless of your skill level, if you work as freelancer, send us your resume, we will answer you as soon as possible about open positions, our culture, ongoing selections, among other things. If you have any questions just send an email to freelance@enqed.com and we'll reply to you shortly.
