@@ -16,5 +16,5 @@ It's pretty simple, regardless of your skill level, if you work as freelancer, s
 
 ## Meet our team
 
-[Gustavo Pires](https://www.linkedin.com/in/gustavo-gon-pires/)
+[Gustavo Pires](https://www.linkedin.com/in/gustavo-gon-pires/)<br>
 [Vitor Watanabe](https://www.linkedin.com/in/vitorwatanabe/)
