@@ -1,4 +1,4 @@
-[Leia este README em pt-BR](https://github.com/enqed/.github/blob/main/profile/pt-BR.md).
+[Leia este README em pt-BR](https://github.com/enqed/.github/blob/main/profile/pt-br.md).
 
 ## Hello 👋
 
