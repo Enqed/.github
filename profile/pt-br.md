@@ -1,20 +1,14 @@
-[Back to README.md](https://github.com/Enqed/.github/blob/main/profile/README.md)
+[⬅ back to README.md](https://github.com/Enqed/.github/blob/main/profile/README.md)
 
-## Olá 👋
+### Descubra a Enqed: Seu Portal para Soluções Digitais Inovadoras
 
-Se você chegou até aqui, provavelmente já ouviu falar sobre a Enqed, trabalha aqui, viu um dos nossos artigos ou postagens, ou se interessou pela nossa empresa.
+**quem somos** <br>
+Enqed é uma consultoria de software dinâmica, especializada em uma ampla gama de produtos digitais. nossa experiência abrange design, desenvolvimento e criação de ferramentas digitais. atendemos tanto às necessidades internas de clientes quanto a serviços B2C, oferecendo soluções sob medida que atendem a diversos requisitos
 
-Não?! 👀 Então deixe-me te contar mais...
+**nossa expertise** <br>
+nosso portfólio é rico e variado, abrangendo setores como SaaS, PaaS, sistemas de tomada de decisões, e-commerce, blogs, aplicativos móveis, IA, aprendizado de máquina, big data e muito mais. navegamos com sucesso por indústrias como aluguel de carros, finanças e educação, demonstrando nossa versatilidade e abordagem inovadora
 
-A Enqed é uma consultoria de software focada em design, desenvolvimento, criação e tudo mais que envolve produtos digitais, seja para uso interno de nossos clientes ou para oferecer serviços a pessoas como você, eu e muitos outros (produtos B2C).
+**junte-se à nossa equipe** <br>
+interessado em uma carreira conosco? estamos abertos a todos os níveis de habilidade e freelancers. basta enviar seu currículo para freelance@enqed.com. responderemos prontamente com detalhes sobre posições abertas, nossa cultura empresarial e seleções em andamento
 
-Ao longo de nossa história, trabalhamos em uma ampla variedade de setores e tipos de produtos, técnicas e coisas interessantes, então vamos juntar tudo. A Enqed trabalhou com SaaS, PaaS, sistemas de tomada de decisão, sites e comércio eletrônico, blogs, aplicativos móveis, aprendizado de máquina e IA, big data e muito mais, nos setores de aluguel de carros, finanças, educação e muitos outros.
-
-## Quer trabalhar conosco? 😍
-
-É bem simples, independentemente do seu nível de habilidade, se você trabalha como freelancer, envie-nos o seu currículo. Responderemos o mais rápido possível sobre as vagas abertas, nossa cultura, processos seletivos em andamento, entre outras coisas. Se você tiver alguma dúvida, basta enviar um e-mail para freelance@enqed.com e responderemos em breve.
-
-## Conheça nosso time 😎
-
-[Gustavo Pires](https://www.linkedin.com/in/gustavo-gon-pires/)<br>
-[Vitor Watanabe](https://www.linkedin.com/in/vitorwatanabe/)
+***Enqed é mais do que uma empresa; é um centro de inovação e criatividade, pronto para transformar suas ambições digitais em realidade***
