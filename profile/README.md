@@ -1,4 +1,4 @@
-[Leia este README em pt-BR](https://github.com/enqed/.github/blob/main/profile/pt-br.md).
+[leia este README em pt-BR](https://github.com/enqed/.github/blob/main/profile/pt-br.md).
 
 ### Discover Enqed: Your Gateway to Innovative Digital Solutions
 
@@ -11,4 +11,4 @@ our portfolio is rich and varied, encompassing sectors like SaaS, PaaS, decision
 **join our team** <br>
 Interested in a career with us? We're open to all skill levels and freelancers. Simply send your resume to freelance@enqed.com. We'll promptly respond with details about open positions, our company culture, and ongoing selections
 
-Enqed is more than a company; it's a hub of innovation and creativity, ready to transform your digital ambitions into reality
+Enqed is more than a company; it's a **hub of innovation and creativity**, ready to transform your **digital ambitions into reality**
